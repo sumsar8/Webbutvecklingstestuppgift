@@ -79,3 +79,10 @@ body {
       .button1:hover {
         opacity: 1;
       }
+      img{
+          margin:0px;
+          border:0px;
+          padding:0px;
+          border-spacing: 0px;
+          border-collapse: collapse;
+      }
